@@ -1,0 +1,7 @@
+name: ShieldWall
+main: name.shieldwall.ShieldWall
+version: "1.0.0"
+api:
+  - 1.0.0
+load: POSTWORLD
+author: lt_name
